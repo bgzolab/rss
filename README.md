@@ -13,10 +13,9 @@
 6. https://feedly.com/
 7. https://www.innoreader.com/
 7. https://feeder.co/
-8. 🌟https://github.com/Rongronggg9/RSS-to-Telegram-Bot
-9. 🌟https://netnewswire.com/
-10. 🌟https://www.qireader.com/
-    11. https://www.qireader.com/export
+8. 🌟 https://github.com/Rongronggg9/RSS-to-Telegram-Bot
+9. 🌟 https://netnewswire.com/
+10. 🌟 https://www.qireader.com/
 
 ### Podcast Player
 
